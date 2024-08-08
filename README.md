@@ -9,11 +9,9 @@
 
 
 
-## Demo (due to Postgres being paid on Heroku now, the app is not working)
-
-https://silkstore.herokuapp.com/
+## Demo 
+Died somewhere in 2022.
 
 
 ## Video
-
-https://streamable.com/pfdr7f
+Also got removed. 
